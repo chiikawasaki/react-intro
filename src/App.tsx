@@ -27,6 +27,7 @@ function App() {
       <Header />
       <Box display={"flex"} alignItems={"center"} flexDirection={"column"}>
         <Box display={"flex"} alignItems={"center"} my={6}>
+          <p>Reactますたーしました！</p>
           <TextField
             id="standard-basic"
             label="Todo"
